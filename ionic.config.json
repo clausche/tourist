@@ -1,0 +1,8 @@
+{
+  "name": "Tourist",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "ea996d33"
+}
